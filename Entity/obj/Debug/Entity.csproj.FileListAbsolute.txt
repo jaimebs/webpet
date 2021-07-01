@@ -1,0 +1,20 @@
+K:\Jaime\Projetos\webpet\Entity\bin\Debug\Entity.dll.config
+K:\Jaime\Projetos\webpet\Entity\bin\Debug\Entity.dll
+K:\Jaime\Projetos\webpet\Entity\bin\Debug\Entity.pdb
+K:\Jaime\Projetos\webpet\Entity\bin\Debug\EntityFramework.dll
+K:\Jaime\Projetos\webpet\Entity\bin\Debug\EntityFramework.SqlServer.dll
+K:\Jaime\Projetos\webpet\Entity\bin\Debug\EntityFramework.xml
+K:\Jaime\Projetos\webpet\Entity\bin\Debug\EntityFramework.SqlServer.xml
+K:\Jaime\Projetos\webpet\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+K:\Jaime\Projetos\webpet\Entity\obj\Debug\Entity.dll
+K:\Jaime\Projetos\webpet\Entity\obj\Debug\Entity.pdb
+D:\Projetos\Projetos C#.net\webpet\Entity\bin\Debug\Entity.dll.config
+D:\Projetos\Projetos C#.net\webpet\Entity\bin\Debug\Entity.dll
+D:\Projetos\Projetos C#.net\webpet\Entity\bin\Debug\Entity.pdb
+D:\Projetos\Projetos C#.net\webpet\Entity\bin\Debug\EntityFramework.dll
+D:\Projetos\Projetos C#.net\webpet\Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\Projetos C#.net\webpet\Entity\bin\Debug\EntityFramework.xml
+D:\Projetos\Projetos C#.net\webpet\Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\Projetos C#.net\webpet\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Projetos\Projetos C#.net\webpet\Entity\obj\Debug\Entity.dll
+D:\Projetos\Projetos C#.net\webpet\Entity\obj\Debug\Entity.pdb

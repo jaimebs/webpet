@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A fully featured admin theme which can be used to build CRM, CMS, etc.">
+    <meta name="author" content="Coderthemes">
+
+    <link rel="shortcut icon" href="~/Imagens/favicon_1.ico">
+
+    <title>WebPet</title>
+    @Scripts.Render("~/bundles/jquery")
+    <!--Morris Chart CSS -->
+    @Styles.Render("~/Content/bootstrap_css")
+    @*@Scripts.Render("~/bundles/modernizr")*@
+    @*<script src="~/Scripts/modernizr.min.js"></script>*@
+   
+</head>
+
+
+<body class="fixed-left">
+    <!-- Begin page -->
+    <div id="wrapper">
+        <!-- Top Bar Start -->
+        <div class="topbar">
+            <!-- LOGO -->
+            <div class="topbar-left">
+                <div class="text-center">
+                    <a href="/Home" class="logo"><i class="icon-magnet icon-c-logo"></i><span>Ub<i class="md md-album"></i>ld</span></a>
+                </div>
+            </div>
+            <!-- Button mobile view to collapse sidebar menu -->
+            <div class="navbar navbar-default" role="navigation">
+                <div class="container">
+                    <div class="">
+                        <div class="pull-left">
+                            <button class="button-menu-mobile open-left">
+                                <i class="ion-navicon"></i>
+                            </button>
+                            <span class="clearfix"></span>
+                        </div>
+                        <ul class="nav navbar-nav navbar-right pull-right">
+                            <li class="hidden-xs">
+                                <a href="#" id="btn-fullscreen" class="waves-effect waves-light"><i class="icon-size-fullscreen"></i></a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle profile" data-toggle="dropdown" aria-expanded="true"><img src="~/Imagens/Icon_Dog.jpg" alt="user-img" class="img-circle"> </a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="javascript:void(0)"><i class="ti-user m-r-5"></i> Usuário</a></li>
+                                    <li><a href="/Login"><i class="ti-power-off m-r-5"></i> Sair</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+        <!-- Top Bar End -->
+        <!-- ========== Left Sidebar Start ========== -->
+
+        <div class="left side-menu">
+            <div class="sidebar-inner slimscrollleft">
+                <!--- Divider -->
+                <div id="sidebar-menu">
+                    <ul>
+                        <li class="text-muted menu-title">Menu</li>
+                        <li class="has_sub">
+                            <a href="#" class="waves-effect"><i class="ti-layers"></i> <span> Cadastros </span> </a>
+                            <ul class="list-unstyled">
+                                <li><a href="/Usuario"><i class="ti-user"></i>Usuário</a></li>
+                                @*<li><a href="ui-panels.html">Panels</a></li>*@
+                            </ul>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <!-- Left Sidebar End -->
+        <!-- ============================================================== -->
+        <!-- Start right Content here -->
+        <!-- ============================================================== -->
+        <div class="content-page">
+            <!-- Start content -->
+            <div class="content">
+                <div class="container">
+                    @RenderBody()
+                </div> <!-- container -->
+            </div> <!-- content -->
+            <footer class="footer text-right">
+                2016 ©
+            </footer>
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Right content here -->
+        <!-- ============================================================== -->
+    </div>
+    <!-- END wrapper -->
+    <script>
+            var resizefunc = [];
+    </script>
+   
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/webpet")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/controller")
+
+    <script type="text/javascript">
+            jQuery(document).ready(function($) {
+                $('.counter').counterUp({
+                    delay: 100,
+                    time: 1200
+                });
+
+                $(".knob").knob();
+
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+K:\Jaime\Projetos\webpet\Enum\bin\Debug\Enum.dll
+K:\Jaime\Projetos\webpet\Enum\bin\Debug\Enum.pdb
+K:\Jaime\Projetos\webpet\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+K:\Jaime\Projetos\webpet\Enum\obj\Debug\Enum.dll
+K:\Jaime\Projetos\webpet\Enum\obj\Debug\Enum.pdb
+D:\Projetos\Projetos C#.net\webpet\Enum\bin\Debug\Enum.dll
+D:\Projetos\Projetos C#.net\webpet\Enum\bin\Debug\Enum.pdb
+D:\Projetos\Projetos C#.net\webpet\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+D:\Projetos\Projetos C#.net\webpet\Enum\obj\Debug\Enum.dll
+D:\Projetos\Projetos C#.net\webpet\Enum\obj\Debug\Enum.pdb

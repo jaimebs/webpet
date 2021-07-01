@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div class="col-sm-12">
+    <h4 class="page-title">Novo Usuário</h4>
+    <ol class="breadcrumb">
+        <li><a href="/Usuario">Lista</a></li>
+        <li class="active">Novo</li>
+    </ol>
+</div>
+
+<div class="row" ng-app="app" ng-controller="UsuarioNovo_Editar">
+    <div class="col-sm-12">
+        <div class="card-box">
+            @Html.Partial("_Novo_Editar")
+
+            <button type="button" class="btn btn-info waves-effect waves-light" ng-disabled="form.$invalid" ng-click="Salvar(usuario)">
+                <span class="btn-label"><i class="fa fa-save"></i></span>Salvar
+            </button>
+            <button type="button" class="btn btn-default waves-effect waves-light" ng-click="Voltar()">
+                <span class="btn-label"><i class="fa fa-arrow-left"></i></span>Voltar
+            </button>
+
+        </div>
+     </div>
+</div>
+

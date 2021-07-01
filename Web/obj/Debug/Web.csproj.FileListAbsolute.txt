@@ -1,0 +1,114 @@
+K:\Jaime\Projetos\webpet\Web\bin\Web.dll.config
+K:\Jaime\Projetos\webpet\Web\bin\Web.dll
+K:\Jaime\Projetos\webpet\Web\bin\Web.pdb
+K:\Jaime\Projetos\webpet\Web\bin\Antlr3.Runtime.dll
+K:\Jaime\Projetos\webpet\Web\bin\EntityFramework.dll
+K:\Jaime\Projetos\webpet\Web\bin\EntityFramework.SqlServer.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.Facebook.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.Google.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.OAuth.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.Twitter.dll
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Web.Infrastructure.dll
+K:\Jaime\Projetos\webpet\Web\bin\Newtonsoft.Json.dll
+K:\Jaime\Projetos\webpet\Web\bin\Owin.dll
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.Helpers.dll
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.Mvc.dll
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.Optimization.dll
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.Razor.dll
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.WebPages.Deployment.dll
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.WebPages.dll
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.WebPages.Razor.dll
+K:\Jaime\Projetos\webpet\Web\bin\WebGrease.dll
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.Helpers.xml
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.Mvc.xml
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.Optimization.xml
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.Razor.xml
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.WebPages.xml
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.WebPages.Deployment.xml
+K:\Jaime\Projetos\webpet\Web\bin\System.Web.WebPages.Razor.xml
+K:\Jaime\Projetos\webpet\Web\bin\Antlr3.Runtime.pdb
+K:\Jaime\Projetos\webpet\Web\bin\Newtonsoft.Json.xml
+K:\Jaime\Projetos\webpet\Web\bin\EntityFramework.xml
+K:\Jaime\Projetos\webpet\Web\bin\EntityFramework.SqlServer.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.Facebook.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.OAuth.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.Google.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.Twitter.xml
+K:\Jaime\Projetos\webpet\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\Jaime\Projetos\webpet\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+K:\Jaime\Projetos\webpet\Web\obj\Debug\Web.dll
+K:\Jaime\Projetos\webpet\Web\obj\Debug\Web.pdb
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Web.dll.config
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Web.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Web.pdb
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Antlr3.Runtime.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\BLL.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Entity.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\EntityFramework.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\EntityFramework.SqlServer.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Newtonsoft.Json.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Owin.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.Helpers.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.Mvc.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.Optimization.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.Razor.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.WebPages.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\WebGrease.dll
+D:\Projetos\Projetos C#.net\webpet\Web\bin\BLL.pdb
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Entity.pdb
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.Helpers.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.Mvc.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.Optimization.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.Razor.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.WebPages.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Antlr3.Runtime.pdb
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Newtonsoft.Json.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\EntityFramework.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\EntityFramework.SqlServer.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projetos\Projetos C#.net\webpet\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projetos\Projetos C#.net\webpet\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\Projetos\Projetos C#.net\webpet\Web\obj\Debug\Web.dll
+D:\Projetos\Projetos C#.net\webpet\Web\obj\Debug\Web.pdb
